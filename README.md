@@ -30,8 +30,9 @@
 ## Chapitre 6 : Mixage audio
 
 * Comment mixer le son de vos vidéos ?
-* Comment supprimer le bruit ?
-* Comment ajouter des effets sonores ?
+* Effets Audio
+* Supprimer le bruit
+* Ajouter des effets sonores
 
 ## Chapitre 7 : Exportation
 
